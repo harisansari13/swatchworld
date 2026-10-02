@@ -1,0 +1,11 @@
+{
+  "name": "swachhcheck-platform",
+  "version": "1.0.0",
+  "description": "SwachhCheck - AI-Powered Civic Damage Detection & Reporting System for Smart Cities",
+  "scripts": {
+    "start:server": "cd server && npm start",
+    "dev:server": "cd server && npm run dev",
+    "dev:client": "cd client && npm run dev",
+    "build:client": "cd client && npm run build"
+  }
+}
